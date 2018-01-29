@@ -26,6 +26,7 @@
 		46D68621201F097200521590 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		46D68623201F097200521590 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		46D68624201F097200521590 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		46D6862D201F0AFE00521590 /* ZYSGoodsDetailServiceProtocol.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZYSGoodsDetailServiceProtocol.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 		46D68614201F097200521590 /* ZYSGoodsDetailServiceProtocol */ = {
 			isa = PBXGroup;
 			children = (
+				46D6862C201F0ABD00521590 /* ZYSGoodsDetailServiceProtocol */,
 				46D68615201F097200521590 /* AppDelegate.h */,
 				46D68616201F097200521590 /* AppDelegate.m */,
 				46D68618201F097200521590 /* ViewController.h */,
@@ -67,6 +69,14 @@
 				46D68620201F097200521590 /* LaunchScreen.storyboard */,
 				46D68623201F097200521590 /* Info.plist */,
 				46D68624201F097200521590 /* main.m */,
+			);
+			path = ZYSGoodsDetailServiceProtocol;
+			sourceTree = "<group>";
+		};
+		46D6862C201F0ABD00521590 /* ZYSGoodsDetailServiceProtocol */ = {
+			isa = PBXGroup;
+			children = (
+				46D6862D201F0AFE00521590 /* ZYSGoodsDetailServiceProtocol.h */,
 			);
 			path = ZYSGoodsDetailServiceProtocol;
 			sourceTree = "<group>";
